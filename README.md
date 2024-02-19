@@ -1,4 +1,4 @@
-#EL Letters Animations
+# EL Letters Animations
 
 [Live Demo](https://hassanalnaggar99.github.io/EL-Letters-Animations)
 
